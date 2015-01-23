@@ -9,3 +9,6 @@ A. Make sure Sublime Text is the current window. Find "Tools" in the top menu, c
 
 Q. How should I start a new turtle drawing?  
 A. Open ```turtle_template.py``` in Sublime Text, save it under a new file name using ```File->Save As``` (remember, it needs to end with .py), and program away!
+
+Q. How should I organize my homework programs?  
+A. It is a good idea to keep all your programs in one directory/folder. Additionally, creating a separate subfolder (a folder within another folder) for each week's homework is probably a good idea.
