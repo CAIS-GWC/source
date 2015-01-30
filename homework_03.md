@@ -1,6 +1,6 @@
 Notes
 =====
-Today's class has a lot of details, so let's recap what have learned. Functions can take one or more parameters (sometimes also called arguments). There are a few key points you should remember while using them:
+Today's class has a lot of details, so let's recap what have learned. Functions can take one or more _parameters_ (also called _arguments_). There are a few key points you should remember while using them:
 * The parameters need to be _declared_ in the header line of the function, after ```def``` and inside the parentheses. Multiple parameters are separated with comma ```,```.
 * Each parameter is given a name when declared, these names are variables, meaning they will remember the values you pass in when you use/call the function. So they can be used to replace _values_. For example, if you declare a parameter ```size```, you can use ```t.forward(size)``` where you previously would call ```t.forward(100)```. The actual length of the line will be determined by the value you pass into ```size```.
 * When you use a function that uses parameters, you need to provide the exact same number of values when calling the function; multiple values are separated with comma. The order of parameters also need to match. For example, if you have defined a function whose header line is ```def draw_square(size, color):```, you need to call it with something like ```draw_square(100, "red")```. If you write ```draw_square("red", 100)``` instead, it won't work.
