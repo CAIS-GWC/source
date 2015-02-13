@@ -22,8 +22,8 @@ Here is something you can use to change the screen size:
 screensize(width, height) # so if you want a 800x600 canvas, use scn.screensize(800, 600)
 ```
 
-Last but not the least is the link for ALL THE COLORS:
-https://www.tcl.tk/man/tcl8.4/TkCmd/colors.htm
+Last but not the least is the link for ALL THE COLORS: 
+https://www.tcl.tk/man/tcl8.4/TkCmd/colors.htm 
 To use the color, type the string/name on the left as your color name. You may wonder what the numbers on the right mean- they are a way of precisely determine how a color is shown on our screen, which mix three different colors to show all the colors we see on our computers, TVs, phones, etc. If you are still curious, read this: https://en.wikipedia.org/wiki/RGB_color_model
 
 
